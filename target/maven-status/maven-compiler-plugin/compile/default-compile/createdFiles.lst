@@ -1,0 +1,4 @@
+com\atguigu\p2p\mapper\UserMapper.class
+com\atguigu\p2p\service\UserService.class
+com\atguigu\p2p\entities\User.class
+com\atguigu\p2p\service\impl\UserServiceImpl.class
